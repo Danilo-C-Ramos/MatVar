@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/3977891868_3020532286_4272345035.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_1174548790_4272345035.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_3616028694_4272345035.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_1959358871_631829896.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_224569774_889849732.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_621871519_3548317080.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/scene/1080p60/partial_movie_files/TwoTransforms/2852726489_1330750800_1601094618.mp4'

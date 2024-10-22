@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/cenas copy/1080p60/partial_movie_files/FuncaoExponencial/462517863_231111299_3463769237.mp4'
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/cenas copy/1080p60/partial_movie_files/FuncaoExponencial/1776149149_2304249630_3009306006.mp4'
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/cenas copy/1080p60/partial_movie_files/FuncaoExponencial/1776149149_592075012_2852720599.mp4'
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/cenas copy/1080p60/partial_movie_files/FuncaoExponencial/1776149149_3494816192_1133869604.mp4'

@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/quadrado/1080p60/partial_movie_files/QuadradoTeste/509047172_425226479_3065164617.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/quadrado/1080p60/partial_movie_files/QuadradoTeste/283883634_3494816192_3060761320.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/quadrado/1080p60/partial_movie_files/QuadradoTeste/3380483882_3002242842_986417488.mp4'

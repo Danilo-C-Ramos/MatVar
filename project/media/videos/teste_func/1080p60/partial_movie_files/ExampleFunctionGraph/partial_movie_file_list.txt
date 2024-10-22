@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/teste_func/1080p60/partial_movie_files/ExampleFunctionGraph/3977891868_702887878_3028829228.mp4'

@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+      {
+          "label": "Run Manim in 1080p60",
+          "type": "shell",
+          "command": "manim",
+          "args": [
+              "-p",
+              "-qh",  // Para qualidade baixa; use -qh para alta qualidade
+              "scene.py",  // Substitua pelo nome do seu arquivo
+              "PrimeiroTeste"  // Substitua pelo nome da sua classe de cena
+          ],
+          "group": {
+              "kind": "build",
+              "isDefault": true
+          },
+          "problemMatcher": []
+      }
+  ]
+}

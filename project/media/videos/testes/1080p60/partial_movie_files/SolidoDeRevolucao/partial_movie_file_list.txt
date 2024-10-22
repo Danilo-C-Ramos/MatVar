@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/testes/1080p60/partial_movie_files/SolidoDeRevolucao/3007118194_376835914_3065164617.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/testes/1080p60/partial_movie_files/SolidoDeRevolucao/1897948275_3824064284_3417294328.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/testes/1080p60/partial_movie_files/SolidoDeRevolucao/1897948275_3438219438_2473449486.mp4'

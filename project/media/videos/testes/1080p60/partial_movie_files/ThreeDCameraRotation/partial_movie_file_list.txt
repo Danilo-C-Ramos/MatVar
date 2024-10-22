@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/testes/1080p60/partial_movie_files/ThreeDCameraRotation/1920257936_755080803_2380094963.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/testes/1080p60/partial_movie_files/ThreeDCameraRotation/373027890_472891391_223501188.mp4'
+file 'file:C:/Users/danil/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/Insper/2 semestre/Mat Var/project/media/videos/testes/1080p60/partial_movie_files/ThreeDCameraRotation/1029392621_2304249630_3947789913.mp4'
