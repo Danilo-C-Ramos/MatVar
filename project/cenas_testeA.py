@@ -47,9 +47,7 @@ class Revolucao(ThreeDScene):
             y_range=[-2, 19.2],
             axis_config={"color": WHITE,
                          "include_ticks": False, 
-                        "include_numbers": False }
-            
-        )
+                        "include_numbers": False })
             curva = axes.plot(lambda x: exp(x), color=RED, x_range=[0, 3], stroke_width=5)
         
             # Agrupando eixos e gráfico para redimensionar juntos
@@ -59,7 +57,7 @@ class Revolucao(ThreeDScene):
             # Reduzir o tamanho do gráfico para 70% do original
             grafico_completo.scale(0.7)
             
-            grafico_completo.move_to([0,0,0])
+            grafico_completo.move_to(ORIGIN)
 
             axes3D = ThreeDAxes(
                 x_range=[-2, 5],
@@ -91,22 +89,28 @@ class Revolucao(ThreeDScene):
 
             # Segunda parte: Criando o sólido de revolução
             # Animação do sólido de revolução
+            def superficie(u, v):
+                r_u = np.exp(-abs(u))  # Exemplo: Função parábola
+                x = r_u * np.sin(v)
+                y = -u
+                z = r_u * np.cos(v)
+                return np.array([x, y, z])
+
             surface = Surface(
-                lambda u, v: axes3D.c2p(np.sin(v) * np.exp(-u), np.exp(-u), np.cos(v) * np.exp(-u)),  # Correção na função da superfície
-                u_range=[0, 2],  # Intervalo de u
-                v_range=[0, 2 * np.pi],  # Variação completa para revolução
-                checkerboard_colors=[BLUE, BLUE_B],
-                resolution=(20, 20)  # Aumenta a resolução para melhor visualização
+                lambda u, v: superficie(u, v),
+                u_range=[0, 3], v_range=[0, TAU],
+                resolution=(10, 10),
             )
             
-            # Posiciona a superfície em relação à curva
-            surface.move_to(curva.get_center())
-            surface.scale(0.5)
-
+            surface.set_style(fill_opacity=0.7, fill_color=BLUE)
+            surface.move_to(axes3D.get_center())
+            grafico_comp_3D = VGroup(axes3D, grafico_3d)
+            grafico_comp_3D.scale(0.7)
             self.add(surface)
+            self.wait()
 
             # Anima a superfície
-            self.play(FadeIn(surface), run_time=1)
+            #self.play(FadeIn(surface), run_time=1)
             self.wait(1)
 
         

@@ -4,5 +4,5 @@ file 'file:C:/Users/danil/Documents/GitHub/MatVar/project/media/videos/cenas_tes
 file 'file:C:/Users/danil/Documents/GitHub/MatVar/project/media/videos/cenas_testeA/1080p60/partial_movie_files/Revolucao/3070950830_1299252428_3858909457.mp4'
 file 'file:C:/Users/danil/Documents/GitHub/MatVar/project/media/videos/cenas_testeA/1080p60/partial_movie_files/Revolucao/2853777877_1427430168_2310286126.mp4'
 file 'file:C:/Users/danil/Documents/GitHub/MatVar/project/media/videos/cenas_testeA/1080p60/partial_movie_files/Revolucao/3758914936_3438219438_3601454365.mp4'
-file 'file:C:/Users/danil/Documents/GitHub/MatVar/project/media/videos/cenas_testeA/1080p60/partial_movie_files/Revolucao/3758914936_3974611853_175530675.mp4'
-file 'file:C:/Users/danil/Documents/GitHub/MatVar/project/media/videos/cenas_testeA/1080p60/partial_movie_files/Revolucao/3758914936_3438219438_4141625881.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/project/media/videos/cenas_testeA/1080p60/partial_movie_files/Revolucao/3758914936_2304249630_3657624011.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/project/media/videos/cenas_testeA/1080p60/partial_movie_files/Revolucao/3758914936_3438219438_684377230.mp4'

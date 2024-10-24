@@ -48,6 +48,7 @@ class SuperficieRevolucao(ThreeDScene):
             u_range=[-2, 2], v_range=[0, TAU],
             resolution=(10, 10),
         )
+        
         surface.set_style(fill_opacity=0.7, fill_color=BLUE)
 
         self.add(axes, surface)
