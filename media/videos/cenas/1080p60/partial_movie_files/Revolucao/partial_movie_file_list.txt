@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/cenas/1080p60/partial_movie_files/Revolucao/462517863_4205520711_3803880200.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/cenas/1080p60/partial_movie_files/Revolucao/815538013_2509135151_134282515.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/cenas/1080p60/partial_movie_files/Revolucao/3070950830_1299252428_3858909457.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/cenas/1080p60/partial_movie_files/Revolucao/2853777877_1427430168_2310286126.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/cenas/1080p60/partial_movie_files/Revolucao/79191448_3438219438_3601454365.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/cenas/1080p60/partial_movie_files/Revolucao/3758914936_1183102096_175530675.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/cenas/1080p60/partial_movie_files/Revolucao/3758914936_3438219438_3266724142.mp4'

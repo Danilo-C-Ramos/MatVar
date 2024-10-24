@@ -92,7 +92,7 @@ class Revolucao(ThreeDScene):
             # Segunda parte: Criando o sólido de revolução
             # Animação do sólido de revolução
             surface = Surface(
-                lambda u, v: axes3D.c2p(np.sin(v) * np.exp(u), np.exp(u), np.cos(v) * np.exp(u)),  # Correção na função da superfície
+                lambda u, v: axes3D.c2p(np.sin(v) * np.exp(-u), np.exp(-u), np.cos(v) * np.exp(-u)),  # Correção na função da superfície
                 u_range=[0, 2],  # Intervalo de u
                 v_range=[0, 2 * np.pi],  # Variação completa para revolução
                 checkerboard_colors=[BLUE, BLUE_B],
