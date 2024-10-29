@@ -98,7 +98,7 @@ class Revolucao(ThreeDScene):
 
             surface = Surface(
                 lambda u, v: superficie(u, v),
-                u_range=[0, 3], v_range=[0, TAU],
+                u_range=[-5, 3], v_range=[0, TAU],
                 resolution=(10, 10),
             )
             

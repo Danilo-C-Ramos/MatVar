@@ -37,7 +37,7 @@ class SuperficieRevolucao(ThreeDScene):
         self.set_camera_orientation(phi=75 * DEGREES, theta=30 * DEGREES)
 
         def superficie(u, v):
-            r_u = np.exp(-abs(u))  # Exemplo: Função parábola
+            r_u = np.exp(abs(u))  # Exemplo: Função parábola
             x = r_u * np.cos(v)
             y = r_u * np.sin(v)
             z = u
@@ -45,7 +45,7 @@ class SuperficieRevolucao(ThreeDScene):
 
         surface = Surface(
             lambda u, v: superficie(u, v),
-            u_range=[-2, 2], v_range=[0, TAU],
+            u_range=[0, 2], v_range=[0, TAU],
             resolution=(10, 10),
         )
         
