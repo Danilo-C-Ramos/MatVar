@@ -1,2 +1,9 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/1897209476_3467822883_3004839818.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/549450206_13550269_729892282.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/1911374947_3690550909_1223110003.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/1911374947_3494816192_3754488019.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/4082990592_923896086_107550447.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/116171457_2304249630_2822367140.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/116171457_2068227129_1376210009.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/116171457_2304249630_2130851938.mp4'
+file 'file:C:/Users/danil/Documents/GitHub/MatVar/media/videos/seno_surface/1080p60/partial_movie_files/SuperficieRevolucao/161411178_831970138_180385267.mp4'

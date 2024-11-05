@@ -90,35 +90,40 @@ class Revolucao(ThreeDScene):
             self.wait(1)
 
             # Segunda parte: Criando o sólido de revolução
-            # Animação do sólido de revolução
+            def superficie(u, v):
+                r_u = log(u) # Exemplo: Função parábola
+                x = r_u * np.sin(v)
+                y = u
+                z = r_u * np.cos(v)
+                return np.array([x, y, z])
+
             surface = Surface(
-                lambda u, v: axes3D.c2p(np.exp(u) * np.cos(v), u, np.exp(u) * np.sin(v)),
-                u_range=[0, 3], v_range=[0, 0],  # Inicialmente sem rotação
-                checkerboard_colors=[BLUE, BLUE_B],
-                resolution=(10, 10)
+                lambda u, v: superficie(u, v),
+                u_range=[1, 5], v_range=[0, 0],
+                resolution=(10, 10),
             )
             #posicao = curva.get_center()
-            #surface.move_to(posicao)
-           # surface.scale(0.7)
-            self.add(surface)
+            
+            
+            
 
             # Atualizar a superfície com base no ângulo de rotação
             def update_surface(mob, alpha):
                 angle = alpha * TAU  # Atualizar o ângulo de 0 a 2π
                 surface = Surface(
-                    lambda u, v: axes3D.c2p(np.exp(u) * np.cos(v), u, np.exp(u) * np.sin(v)),
-                    u_range=[0, 3], v_range=[0, angle],
-                    checkerboard_colors=[BLUE, BLUE_B],
-                    resolution=(10, 10)
-                )
-                #surface.move_to(posicao)
-                #surface.scale(0.7)
+                lambda u, v: superficie(u, v),
+                u_range=[1, 8], v_range=[0, angle],
+                resolution=(10, 10),
+            )
+                surface.move_to([-2, -2.5, 1.4])
+                surface.scale(0.7)
                 mob.become(surface)
                 self.add(axes3D)  # Re-adiciona os eixos para garantir que fiquem visíveis por cima da superfície
 
             # Animar a rotação gradual para formar o sólido
+            
             self.play(UpdateFromAlphaFunc(surface, update_surface), run_time=1, rate_func=linear)
-
+            
             self.wait(1)
         
 
