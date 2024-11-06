@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/GitHub/MatVar/media/videos/esfera/1080p60/partial_movie_files/SphereFormation/1012671662_3730275731_796086815.mp4'
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/GitHub/MatVar/media/videos/esfera/1080p60/partial_movie_files/SphereFormation/3861471777_3438219438_1068190887.mp4'
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/GitHub/MatVar/media/videos/esfera/1080p60/partial_movie_files/SphereFormation/3861471777_2845852786_3673585151.mp4'
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/GitHub/MatVar/media/videos/esfera/1080p60/partial_movie_files/SphereFormation/3861471777_2676106843_3008013587.mp4'
+file 'file:C:/Users/Danilo/OneDrive - Insper - Institudo de Ensino e Pesquisa/Documentos/GitHub/MatVar/media/videos/esfera/1080p60/partial_movie_files/SphereFormation/3861471777_3494816192_3151306479.mp4'
